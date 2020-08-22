@@ -1,0 +1,2 @@
+# GAOrcaMusic
+I am building a genetic algorithm to generate short pieces of music that are transferable to the programming language Orca. All code is otherwise written in Rust. I am using the normalized compression distance in my fitness function, which requires a compression algorithm. I am employing the lz77 compression algorithm. I acquired the algorithmic code for the lz77 algorithm from zhaihj on github.
