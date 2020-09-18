@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 rand = "0.5.5"
+libflate_lz77 = "1.0.0"
+statrs = "0.13.0"
